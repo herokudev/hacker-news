@@ -1,3 +1,7 @@
+.news_container {
+  width: 100%;
+}
+
 .Rectangle-2-Copy {
     height: 114px;
     margin: 0 0 70px;
@@ -6,7 +10,8 @@
     background-image: linear-gradient(to bottom, #ececec -32%, #fff 124%);
   }
 
-.btnSource:hover {
+.btnSource1 {
+    margin-top: 20px;
     width: 98px;
     height: 31px;
     border-radius: 2px;
@@ -14,7 +19,7 @@
     color: #1797ff;
   }
 
-.btnSource {
+.btnSource2 {
     margin-top: 20px;
     width: 98px;
     height: 31px;
