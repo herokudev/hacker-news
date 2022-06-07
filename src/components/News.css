@@ -1,0 +1,29 @@
+.news_container {
+  width: 100%;
+}
+
+.Rectangle-2-Copy {
+    height: 114px;
+    margin: 0 0 70px;
+    padding: 44px 1082px 20px 150px;
+    box-shadow: 0 1px 4px 0 rgba(0, 21, 41, 0.12);
+    background-image: linear-gradient(to bottom, #ececec -32%, #fff 124%);
+  }
+
+.btnSource1 {
+    margin-top: 20px;
+    width: 98px;
+    height: 31px;
+    border-radius: 2px;
+    border: solid 1px #1797ff;
+    color: #1797ff;
+  }
+
+.btnSource2 {
+    margin-top: 20px;
+    width: 98px;
+    height: 31px;
+    border-radius: 2px;
+    border: solid 1px #d6d6d6;
+    color: #606060;
+}

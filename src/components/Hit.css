@@ -1,0 +1,29 @@
+.hit_container {
+    width: 550px;
+    height: 90px;
+    margin: 30px 0 0 50px;
+    padding: 0 0 0 26px;
+    opacity: 0.8;
+    border-radius: 6px;
+    border: solid 1px #979797;
+    background-color: #fff;
+    display: inline-block;
+    vertical-align: text-top;
+  }
+
+.hit_contents{
+    padding: 25px 45px 0 0;
+    display: flex;
+    flex-direction: row;
+}
+
+.hit_info {    
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+}
+
+.hit_image {
+    padding: 5px 5px 0 25px;
+    margin-left: 25px;
+}
